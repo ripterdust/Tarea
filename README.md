@@ -1,0 +1,1 @@
+En la tarea se muestra la estación del año en el que se está actualmente, y se valida si se están, hice una tabla hash en donde se almacenan los años y se obtiene el año y después se valida, unav ez validado, sem uestra el año, mi nombre y mi número de carnet
